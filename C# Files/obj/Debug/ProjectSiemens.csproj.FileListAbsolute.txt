@@ -1,0 +1,2 @@
+C:\Users\m0tei\Documents\code_files\ProjectSiemens\obj\Debug\ProjectSiemens.csproj.AssemblyReference.cache
+C:\Users\m0tei\Documents\code_files\ProjectSiemens\obj\Debug\ProjectSiemens.csproj.CoreCompileInputs.cache

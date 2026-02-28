@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|c:\\users\\m0tei\\documents\\code_files\\projectsiemens\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53AA854-E267-423C-9A5E-F56D8BC38431}|ProjectSiemens.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderItem.cs",
+              "ToolTip": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\OrderItem.cs",
+              "RelativeToolTip": "OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:15:11.988Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:00:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwEUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:35:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T10:59:06.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\m0tei\\Documents\\code_files\\ProjectSiemens\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T10:58:25.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
