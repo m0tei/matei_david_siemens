@@ -5,14 +5,14 @@ This repository contains my solutions for a set of system design and OOP problem
 
 ## Contents
 
-### 📄 Design Solutions.pdf
+### Design Solutions.pdf
 Includes:
 - UML design for the coffee shop application
 - ER database model derived from the system architecture
 - PDF with solutions for all of the questions
 - `C# Files` folder to store the project files
 
-### 📁 C# Files/
+### C# Files/
 - Customer.cs
 - Order.cs
 - OrderItem.cs
